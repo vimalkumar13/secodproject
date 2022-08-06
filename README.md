@@ -1,0 +1,2 @@
+# secodproject
+learning git
