@@ -1,2 +1,2 @@
-# secodproject
-learning git
+this is for git issues and all
+
